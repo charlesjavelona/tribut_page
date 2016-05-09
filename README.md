@@ -1,1 +1,1 @@
-# Tribute page for Quincy Larson
+#Duckr
